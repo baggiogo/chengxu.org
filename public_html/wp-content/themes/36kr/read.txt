@@ -1,0 +1,10 @@
+仿36kr主题
+1.请上传至wp-content/themes目录下
+2.需要自行修改的地方
+ 1)logo，在当前主题images/logo.png
+ 2)自行修改footer.php文件的相关代码
+ 3)若要在首页列表中添加分享请修改index.php下的18行<DIV class="eight columns"><!--分享代码--></DIV>中添加
+3.后台配置，4处广告位，顶部广告位，正文上下部广告位和右侧广告位，有还底部添加统计代码
+
+
+如有什么问题，或要求，可以访问 http://softuses.com  留言
